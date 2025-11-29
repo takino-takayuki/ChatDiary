@@ -1,0 +1,8 @@
+# .gitignore の内容例:
+# ログファイル本体
+Chat/chat_log.md
+# 一時ファイルなど
+Chat/*.md
+*.tmp
+# macOS のシステムファイル
+.DS_Store
